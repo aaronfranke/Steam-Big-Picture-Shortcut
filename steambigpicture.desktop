@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Steam Big Picture
+Comment=Steam's "Tenfoot" living room interface
+Exec=/usr/games/steam %U -start steam://open/bigpicture 
+Icon=/home/htpc/Dropbox/Public/Icons/steambigpicture.png
+Terminal=false
+Type=Application
+Categories=Network;FileTransfer;Game;
+MimeType=x-scheme-handler/steam;
+Actions=BigPicture;
+Keywords=Games
+
+[Desktop Action BigPicture]
+Name=Big Picture
+Exec=steam steam://open/bigpicture
