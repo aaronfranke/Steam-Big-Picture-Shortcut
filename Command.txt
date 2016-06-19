@@ -1,0 +1,8 @@
+
+This is basically the command used:
+
+steam -start steam://open/bigpicture 
+
+
+
+
