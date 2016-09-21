@@ -12,4 +12,4 @@ Keywords=Games
 
 [Desktop Action BigPicture]
 Name=Big Picture
-Exec=steam steam://open/bigpicture
+Exec=steam -start steam://open/bigpicture
