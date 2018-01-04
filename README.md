@@ -5,11 +5,11 @@ A shortcut (.lnk for Windows, .desktop for Linux, .app for MacOS) which will alw
 
 This is basically the command used:
 
-steam -start steam://open/bigpicture 
+    steam -start steam://open/bigpicture
 
 Alternatively, for High DPI:
 
-steam -start steam://open/bigpicture -fulldesktopres
+    steam -start steam://open/bigpicture -fulldesktopres
 
 
 
