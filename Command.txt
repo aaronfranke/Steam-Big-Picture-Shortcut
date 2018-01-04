@@ -2,16 +2,4 @@
 This is basically the command used:
 
 steam -start steam://open/bigpicture 
-
-
-
-
-
-(
-
-steam -start steam://open/bigpicture 
-
-
-
-
--fulldesktopres for hidpi)
+('steam -start steam://open/bigpicture -fulldesktopres' for hidpi)
