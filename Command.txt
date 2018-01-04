@@ -6,3 +6,12 @@ steam -start steam://open/bigpicture
 
 
 
+
+(
+
+steam -start steam://open/bigpicture 
+
+
+
+
+-fulldesktopres for hidpi)
