@@ -13,3 +13,7 @@ Keywords=Games
 [Desktop Action BigPicture]
 Name=Big Picture
 Exec=steam -start steam://open/bigpicture
+
+
+
+
